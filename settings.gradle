@@ -1,0 +1,2 @@
+include ':app', ':features:chartview'
+rootProject.name='Bitcoin Grapher'
