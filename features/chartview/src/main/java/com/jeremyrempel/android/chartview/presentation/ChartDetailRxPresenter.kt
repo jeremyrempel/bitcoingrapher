@@ -1,5 +1,6 @@
 package com.jeremyrempel.android.chartview.presentation
 
+import android.util.Log
 import com.github.mikephil.charting.data.Entry
 import com.jeremyrempel.android.chartview.api.BlockChainApiResponse
 import com.jeremyrempel.android.chartview.api.BlockChainService
